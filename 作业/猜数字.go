@@ -14,7 +14,7 @@ func main() {
 		if temp != age{
 			value --
 			if value == 0{
-				fmt.Println("错了，你无了！")
+				fmt.Println("你无了！")
 				break
 			}
 			message := fmt.Sprintf("错了，还剩%d次机会", value)
