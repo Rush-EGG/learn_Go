@@ -5,7 +5,7 @@ import (
 	"math/big"
 )
 
-func main(){
+func test2(){
 	p1 := new(big.Int)
 	p2 := new(big.Int)
 

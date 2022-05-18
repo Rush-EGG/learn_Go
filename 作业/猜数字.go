@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func test1() {
 	age := 66
 	var temp int
 	value := 3
