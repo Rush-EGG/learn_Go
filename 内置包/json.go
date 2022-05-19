@@ -13,7 +13,7 @@ type Plant struct {
 	Subject string `json:"subject"`
 }
 
-func main() {
+func test1() {
 	i := []interface{}{
 		"卢小喷",
 		123,
